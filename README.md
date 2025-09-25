@@ -20,7 +20,8 @@ Here are a few of my pinned projects — click to check them out:
 - [Whether Or Not](https://github.com/kade-wallis/whether-or-not) — A weather app that helps decide “whether or not” to go for a walk based on live weather data.  
 - [Feline Good](https://github.com/kade-wallis/Feline-Good) — A cat adoption app built with React.  
 - [ToDo Full Stack](https://github.com/kade-wallis/todo-full-stack) — A simple full-stack ToDo app with React, Express, and SQLite.  
-- [kade-wallis.github.io](https://kade-wallis.github.io) — My very first website, a blog from Dev Academy Foundations.  
+- [kade-wallis.github.io](https://github.com/kade-wallis/kade-wallis.github.io) — My very first website, a blog from Dev Academy Foundations.
+
 
 ---
 
